@@ -8,7 +8,7 @@
 
 
 # Компонентная схема системы WellDriver
-![Компонентная схема системы WellDriver](ADR2_data/wd-context.png)
+![Компонентная схема системы WellDriver](ADR2_data/wd-components.png)
 
 
 ## Особенности
