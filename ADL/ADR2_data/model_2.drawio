@@ -1,0 +1,100 @@
+<mxfile host="Electron" modified="2023-12-07T04:43:11.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="XntfZLRHtl8TwJYF4ogg" version="22.1.2" type="device">
+  <diagram name="Страница — 1" id="eT2gAs6k3GU1KRKO2VG1">
+    <mxGraphModel dx="1668" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-1" value="Получить данные" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-3" value="Источник 1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-4" value="Источник 2" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="30" y="520" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-7" value="Записать данные" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="760" y="460" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-8" value="Представить данные" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="300" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-9" value="Недропользователь" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="290" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-10" value="Струдник буровой компании" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="450" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-11" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="610" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-12" value="Представители сервисных подрядчиков" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="620" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-13" value="Представить данные" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="460" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-14" value="Представить данные" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="620" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-3" target="hTMxFZ1-8aQElemXxSCZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="650" as="sourcePoint" />
+            <mxPoint x="840" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-4" target="hTMxFZ1-8aQElemXxSCZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="447" as="sourcePoint" />
+            <mxPoint x="320" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-1" target="hTMxFZ1-8aQElemXxSCZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="437" as="sourcePoint" />
+            <mxPoint x="590" y="497.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-7" target="hTMxFZ1-8aQElemXxSCZ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="437" as="sourcePoint" />
+            <mxPoint x="310" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-7" target="hTMxFZ1-8aQElemXxSCZ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="447" as="sourcePoint" />
+            <mxPoint x="320" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-7" target="hTMxFZ1-8aQElemXxSCZ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="437" as="sourcePoint" />
+            <mxPoint x="310" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-8" target="hTMxFZ1-8aQElemXxSCZ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="437" as="sourcePoint" />
+            <mxPoint x="310" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-13" target="hTMxFZ1-8aQElemXxSCZ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="437" as="sourcePoint" />
+            <mxPoint x="310" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-14" target="hTMxFZ1-8aQElemXxSCZ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="437" as="sourcePoint" />
+            <mxPoint x="310" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTMxFZ1-8aQElemXxSCZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hTMxFZ1-8aQElemXxSCZ-14" target="hTMxFZ1-8aQElemXxSCZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
