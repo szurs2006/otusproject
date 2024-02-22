@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-02-21T10:35:12.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="nRwBL_L0XmyhS9JMmO_H" version="23.0.2" type="device">
+<mxfile host="Electron" modified="2024-02-22T07:43:39.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="uAzJPkYLSqKyvFiLP3C5" version="23.0.2" type="device">
   <diagram name="Страница — 1" id="vBus4hI7N3KhoNtrzH9x">
     <mxGraphModel dx="2504" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="Queue" c4Description="Internal calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="wueVmFs8KwoW49TXdZRj-21">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UjwXRRVj3SQPNOP-FxVA-14" target="WWfD2DNqAcBZEacZoIVP-10" edge="1">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;" parent="1" source="UjwXRRVj3SQPNOP-FxVA-14" target="WWfD2DNqAcBZEacZoIVP-10" edge="1">
             <mxGeometry x="-0.1239" y="9" width="240" relative="1" as="geometry">
               <mxPoint x="85" y="991" as="sourcePoint" />
               <mxPoint x="-120" y="856" as="targetPoint" />
@@ -253,7 +253,7 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Internal calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WWfD2DNqAcBZEacZoIVP-6">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="UjwXRRVj3SQPNOP-FxVA-8" target="UjwXRRVj3SQPNOP-FxVA-3" edge="1">
-            <mxGeometry x="-0.8516" width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.9335" y="40" width="240" relative="1" as="geometry">
               <mxPoint x="50" y="460" as="sourcePoint" />
               <mxPoint x="290" y="460" as="targetPoint" />
               <Array as="points">
@@ -261,7 +261,7 @@
                 <mxPoint x="500" y="540" />
                 <mxPoint x="500" y="520" />
               </Array>
-              <mxPoint x="1" as="offset" />
+              <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -283,7 +283,7 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="ORM/SQL" c4Description="Internal calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="WWfD2DNqAcBZEacZoIVP-8">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.381;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" parent="1" source="wueVmFs8KwoW49TXdZRj-1" target="UjwXRRVj3SQPNOP-FxVA-34" edge="1">
-            <mxGeometry x="-0.8114" y="6" width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.9443" y="-38" width="240" relative="1" as="geometry">
               <mxPoint x="50" y="510" as="sourcePoint" />
               <mxPoint x="290" y="510" as="targetPoint" />
               <Array as="points">
@@ -291,7 +291,7 @@
                 <mxPoint x="470" y="550" />
                 <mxPoint x="470" y="320" />
               </Array>
-              <mxPoint y="-1" as="offset" />
+              <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
